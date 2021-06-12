@@ -1,5 +1,5 @@
 # web_dev_with_zuri
-Okay so basically I went through a funny phase in life and I'm basically learning my Backend development and machine learning from scratch .
+Okay so basically I went through a funny phase in life and I'm basically learning my website developmen from scratch .
 Learning python syntax again
 Data types and their methoods
 -Strings
