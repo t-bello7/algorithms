@@ -7,7 +7,7 @@
 #conditional statement ...#and #or
 
 #loop while , for , 
-
+import oop
 
 x = 5
 
@@ -61,3 +61,11 @@ except:
     istr = -1
 
 print('Second', istr)
+
+
+## string mehtods
+
+# You can slice strings like lists
+# you can check the len of strings with a function call
+# yon use .strip() method for the string 
+# you can use find() method to search for the postion of a letter in a string
